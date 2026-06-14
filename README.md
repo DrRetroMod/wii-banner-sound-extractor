@@ -1,4 +1,4 @@
-# Wii Banner Sound MP3 Extractor
+# Wii Banner Sound Extractor
 
 A small Python tool for extracting the Wii menu/banner sound from Wii game images and saving it as an MP3.
 
